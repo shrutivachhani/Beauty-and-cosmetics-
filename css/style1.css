@@ -203,11 +203,11 @@ a {
     -webkit-box-shadow: none;
     box-shadow: none; }
   .btn.btn-primary {
-    background: #d3658d;
-    border-color: #d3658d; }
+    background: #3b5d50;
+    border-color: #3b5d50; }
     .btn.btn-primary:hover {
-      background: #d3658d;
-      border-color: #d3658d; }
+      background: #314d43;
+      border-color: #314d43; }
   .btn.btn-secondary {
     color: #2f2f2f;
     background: #d3658d;
@@ -404,7 +404,7 @@ a {
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      border: 2px solid #d3658d;
+      border: 2px solid #3b5d50;
       position: absolute;
       left: 0;
       top: 8px; }
@@ -492,7 +492,7 @@ a {
       -o-transition: .3s all ease;
       transition: .3s all ease; }
       .testimonial-slider-wrap #testimonial-nav > span:hover {
-        background: #d3658d;
+        background: #3b5d50;
         color: #ffffff; }
     .testimonial-slider-wrap #testimonial-nav .prev {
       left: -10px; }
@@ -532,7 +532,7 @@ a {
         transition: .3s all ease;
         background-color: #d6d6d6; }
       .testimonial-slider-wrap .tns-nav button:hover:before, .testimonial-slider-wrap .tns-nav button.tns-nav-active:before {
-        background-color: #d3658d; }
+        background-color: #3b5d50; }
 
 .before-footer-section {
   padding: 7rem 0 12rem 0 !important; }
@@ -589,7 +589,7 @@ a {
     .footer-section .subscription-form h3 {
       font-size: 18px;
       font-weight: 500;
-      color: #d3658d; }
+      color: #3b5d50; }
     .footer-section .subscription-form .form-control {
       height: 50px;
       border-radius: 10px;
@@ -598,7 +598,7 @@ a {
         outline: none;
         -webkit-box-shadow: none;
         box-shadow: none;
-        border-color: #d3658d;
+        border-color: #3b5d50;
         -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2);
         box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2); }
       .footer-section .subscription-form .form-control::-webkit-input-placeholder {
@@ -629,7 +629,7 @@ a {
     font-size: 32px;
     font-weight: 500;
     text-decoration: none;
-    color: #d3658d; }
+    color: #3b5d50; }
   .footer-section .custom-social li {
     margin: 2px;
     display: inline-block; }
@@ -640,10 +640,10 @@ a {
       line-height: 40px;
       display: inline-block;
       background: #dce5e4;
-      color: #d3658d;
+      color: #3b5d50;
       border-radius: 50%; }
       .footer-section .custom-social li a:hover {
-        background: #d3658d;
+        background: #3b5d50;
         color: #ffffff; }
   .footer-section .border-top {
     border-color: #dce5e4; }
@@ -661,7 +661,7 @@ a {
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    border-color: #d3658d;
+    border-color: #3b5d50;
     -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2);
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2); }
   .form-control::-webkit-input-placeholder {
@@ -683,7 +683,7 @@ a {
     height: 50px;
     line-height: 50px;
     text-align: center;
-    background: #d3658d;
+    background: #3b5d50;
     margin-right: 20px;
     color: #ffffff; }
 
@@ -709,7 +709,7 @@ textarea {
     vertical-align: middle;
     color: rgba(0, 0, 0, 0.8); }
   .site-blocks-table tbody tr:first-child td {
-    border-top: 1px solid #d3658d !important; }
+    border-top: 1px solid #3b5d50 !important; }
   .site-blocks-table .btn {
     background: none !important;
     color: #000000;
@@ -727,11 +727,11 @@ textarea {
   border-radius: 10px !important; }
 
 .text-primary {
-  color: #d3658d !important; }
+  color: #3b5d50 !important; }
 
 .thankyou-icon {
   position: relative;
-  color: #d3658d; }
+  color: #3b5d50; }
   .thankyou-icon:before {
     position: absolute;
     content: "";
